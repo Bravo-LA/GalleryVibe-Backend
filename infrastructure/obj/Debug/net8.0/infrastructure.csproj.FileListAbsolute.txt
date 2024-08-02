@@ -1,0 +1,17 @@
+C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\infrastructure\bin\Debug\net8.0\infrastructure.deps.json
+C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\infrastructure\bin\Debug\net8.0\infrastructure.runtimeconfig.json
+C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\infrastructure\bin\Debug\net8.0\infrastructure.dll
+C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\infrastructure\bin\Debug\net8.0\infrastructure.pdb
+C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\infrastructure\bin\Debug\net8.0\domain.dll
+C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\infrastructure\bin\Debug\net8.0\domain.pdb
+C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\infrastructure\obj\Debug\net8.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\infrastructure\obj\Debug\net8.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\infrastructure\obj\Debug\net8.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\infrastructure\obj\Debug\net8.0\infrastructure.AssemblyInfo.cs
+C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\infrastructure\obj\Debug\net8.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\infrastructure\obj\Debug\net8.0\infrastructure.csproj.CopyComplete
+C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\infrastructure\obj\Debug\net8.0\infrastructure.dll
+C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\infrastructure\obj\Debug\net8.0\refint\infrastructure.dll
+C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\infrastructure\obj\Debug\net8.0\infrastructure.pdb
+C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\infrastructure\obj\Debug\net8.0\infrastructure.genruntimeconfig.cache
+C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\infrastructure\obj\Debug\net8.0\ref\infrastructure.dll
