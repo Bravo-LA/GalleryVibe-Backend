@@ -23,5 +23,9 @@ namespace infrastructure.context
 
         public DbSet<Pintura> Pinturas { get; set; }
 
+        public DbSet<Ventas> Ventass { get; set; }
+
+        public DbSet<Publicacion> Publicacions { get; set; }
+
     }
 }
