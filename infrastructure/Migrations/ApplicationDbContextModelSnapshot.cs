@@ -38,6 +38,50 @@ namespace infrastructure.Migrations
                     b.ToTable("Generos");
                 });
 
+            modelBuilder.Entity("domain.entities.OrdenCompra", b =>
+                {
+                    b.Property<int>("id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+
+                    b.Property<string>("ComentariosAdicionales")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("DireccionEnvio")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("MetodoPago")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("PrecioUnitario")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<string>("Usuario")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("cantidad")
+                        .HasColumnType("int");
+
+                    b.Property<string>("estadoOrden")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("feichaCreacion")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("idImagen")
+                        .HasColumnType("int");
+
+                    b.Property<decimal>("totalOrden")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.HasKey("id");
+
+                    b.ToTable("OrdenCompras");
+                });
+
             modelBuilder.Entity("domain.entities.Pintura", b =>
                 {
                     b.Property<int>("Id")

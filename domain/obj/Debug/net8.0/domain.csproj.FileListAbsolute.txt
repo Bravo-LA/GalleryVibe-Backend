@@ -9,3 +9,15 @@ C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\domain\obj\Debug\net8
 C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\domain\obj\Debug\net8.0\refint\domain.dll
 C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\domain\obj\Debug\net8.0\domain.pdb
 C:\Users\VILLAMAR\Desktop\Gallery View\GalleryVibe-Backend\domain\obj\Debug\net8.0\ref\domain.dll
+C:\Users\Ligia Morán Mosquera\Source\Repos\Bravo-LA\GalleryVibe-Backend\domain\bin\Debug\net8.0\domain.deps.json
+C:\Users\Ligia Morán Mosquera\source\repos\Bravo-LA\GalleryVibe-Backend\domain\bin\Debug\net8.0\domain.dll
+C:\Users\Ligia Morán Mosquera\source\repos\Bravo-LA\GalleryVibe-Backend\domain\bin\Debug\net8.0\domain.pdb
+C:\Users\Ligia Morán Mosquera\source\repos\Bravo-LA\GalleryVibe-Backend\domain\obj\Debug\net8.0\domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ligia Morán Mosquera\source\repos\Bravo-LA\GalleryVibe-Backend\domain\obj\Debug\net8.0\domain.AssemblyInfoInputs.cache
+C:\Users\Ligia Morán Mosquera\source\repos\Bravo-LA\GalleryVibe-Backend\domain\obj\Debug\net8.0\domain.AssemblyInfo.cs
+C:\Users\Ligia Morán Mosquera\source\repos\Bravo-LA\GalleryVibe-Backend\domain\obj\Debug\net8.0\domain.csproj.CoreCompileInputs.cache
+C:\Users\Ligia Morán Mosquera\source\repos\Bravo-LA\GalleryVibe-Backend\domain\obj\Debug\net8.0\domain.sourcelink.json
+C:\Users\Ligia Morán Mosquera\source\repos\Bravo-LA\GalleryVibe-Backend\domain\obj\Debug\net8.0\domain.dll
+C:\Users\Ligia Morán Mosquera\source\repos\Bravo-LA\GalleryVibe-Backend\domain\obj\Debug\net8.0\refint\domain.dll
+C:\Users\Ligia Morán Mosquera\source\repos\Bravo-LA\GalleryVibe-Backend\domain\obj\Debug\net8.0\domain.pdb
+C:\Users\Ligia Morán Mosquera\Source\Repos\Bravo-LA\GalleryVibe-Backend\domain\obj\Debug\net8.0\ref\domain.dll

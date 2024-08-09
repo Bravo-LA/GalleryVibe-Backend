@@ -51,6 +51,7 @@ builder.Services.AddScoped<IGeneroRepository, GeneroRepository>();
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 builder.Services.AddScoped<ITecnicaRepository, TecnicaRepository>();
 builder.Services.AddScoped<IPinturaRepository, PinturaRepository>();
+builder.Services.AddScoped<IOrdenCompraRepository, OrdenCompraRepository>();
 
 builder.Services.AddCors(options => options.AddPolicy("AllowWebapp",
                                     builder => builder.AllowAnyOrigin()
