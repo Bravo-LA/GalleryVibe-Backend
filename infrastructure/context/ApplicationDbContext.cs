@@ -22,6 +22,6 @@ namespace infrastructure.context
         public DbSet<Tecnica> Tecnicas { get; set; }
 
         public DbSet<Pintura> Pinturas { get; set; }
-
+        public DbSet<Contacto> Contactos { get; set; }
     }
 }
